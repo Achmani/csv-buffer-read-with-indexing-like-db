@@ -1,7 +1,7 @@
 # csv-buffer-read-with-indexing
 
 ##  System Design
-For this test there is some core design for this system
+For this reearch there is some core design for this system
 ### Summarization
 For accessing a portofolio based on time fast, i design a summarization of the transactions.csv in indexing_summary.ts
 
